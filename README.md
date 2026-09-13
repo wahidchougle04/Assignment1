@@ -52,3 +52,16 @@ Upon identification, the system marks the student as **Present**, timestamps the
       - Overlay Name & Status             - Display "UNREGISTERED USER!"
       - Log (Roll, Name, Class, Div, Time)
       - Calculate Absent Count
+
+```
+## Images Authenticated
+<img width="1080" height="1080" alt="face_recog_ajey" src="https://github.com/user-attachments/assets/95a25607-d4b7-4511-825f-e0446fd2c491" />
+<img width="1080" height="1080" alt="face_recog_ashish" src="https://github.com/user-attachments/assets/431390be-bef1-41fc-b619-aeda7de32e56" />
+<img width="1080" height="1080" alt="face_recog_kaashvi" src="https://github.com/user-attachments/assets/52548e72-cccb-406a-bba5-2d45b9e44f0f" />
+<img width="1080" height="1080" alt="face_recog_naman" src="https://github.com/user-attachments/assets/269e0dec-3dee-40c6-b559-5722e6d4a652" />
+
+## Images Unauthenticated
+<img width="1080" height="1080" alt="face_recog_hania" src="https://github.com/user-attachments/assets/1732d16d-0b0a-4421-8019-e30fb60fe014" />
+
+## Excel Sheet
+<img width="1080" height="1080" alt="face_recog_excelsheet" src="https://github.com/user-attachments/assets/d8b452f4-7699-462e-bbe4-c753a602780a" />
